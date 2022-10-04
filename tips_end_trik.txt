@@ -1,0 +1,6 @@
+penjelasan mengenaitutorial
+
+shortcut nya
+psvm + tab = untuk mempercepat menuliskan public static void main(String[] args)
+sout + tab = untuk memepercepat menuliskan System.out.println();
+ctrl + d   = untuk menduplikat baris kode

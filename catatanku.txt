@@ -1,0 +1,3 @@
+
+di java variable tidak boleh dinamis variable contoh int di pake buat string
+di java variable tidak boleh mengunakan [[sepasi enter tab ]]
